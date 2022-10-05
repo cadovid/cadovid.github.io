@@ -6,7 +6,7 @@ date: 2022-01-01
 comments: false
 ---
     
-<center>Hi there! I am David.</center>
+<center>Hi there! I am <b>David</b>.</center>
 
 Hello and welcome to my little space!
 
@@ -26,9 +26,8 @@ You can reach me on my personal sites:
 
 <a class="social-btn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
 
-[GitHub](https://github.com/cadovid)
-[LinkedIn](https://www.linkedin.com/in/david-caminoperdones/)
+<a class="social-btn" href="http://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
 
 Or at my personal email address:
 
-[david.camino.perdones@gmail.com](mailto:david.camino.perdones@gmail.com){: .btn}
+<a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
