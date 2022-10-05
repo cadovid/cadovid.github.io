@@ -24,9 +24,10 @@ See you around!
 
 You can reach me on my personal sites:
 
+<p align="center">
 <a class="social-btn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
-
 <a class="social-btn" href="http://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
+</p>
 
 Or at my personal email address:
 
