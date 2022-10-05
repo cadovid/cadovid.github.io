@@ -20,8 +20,8 @@ This section shows some of the projects I have done as a result of my learning p
 
 <br>
 
-1. Working with the Reddit API
+1. **Working with the Reddit API**
 
     Extracting basic information from the Reddit API using Python.
 
-    [GitHub/reddit-api](https://github.com/cadovid/reddit-api)
+    <div markdown="0"><a href="https://github.com/cadovid/reddit-api" class="btn">GitHub/reddit-api</a></div>

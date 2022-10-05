@@ -24,24 +24,22 @@ This section shows some of the projects I have done as a result of my learning p
 
     Modelling Monte Carlo and Black Scholes functions to determine the pricing of european vanilla options with cash dividends.
 
-    <div markdown="0"><a href="https://github.com/cadovid/finance-math-bsmc" class="btn">Github/finance-math-bsmc</a></div>
-
-    [GitHub/finance-math-bsmc](https://github.com/cadovid/finance-math-bsmc){: .btn}
+    <div markdown="0"><a href="https://github.com/cadovid/finance-math-bsmc" class="btn">GitHub/finance-math-bsmc</a></div>
 
 2. **Multiobjective optimization for a travel problem**
 
     Using Platypus -a framework for evolutionary computing- for multiobjective optimization in the context of travel problem.
 
-    [GitHub/multiobjective-optimization](https://github.com/cadovid/multiobjective-optimization-travel)
+    <div markdown="0"><a href="https://github.com/cadovid/multiobjective-optimization-travel" class="btn">GitHub/multiobjective-optimization</a></div>
 
 3. **Optimization algorithmics**
 
     Developing and implementing different algorithmics to solve several optimization problems.
 
-    [GitHub/optimization-algorithmics](https://github.com/cadovid/optimization-algorithmics)
+    <div markdown="0"><a href="https://github.com/cadovid/optimization-algorithmics" class="btn">GitHub/optimization-algorithmics</a></div>
 
 4. **Simulation algorithmics with statistical analysis**
 
     Developing and implementing different algorithmics to solve several simulation problems with statistical analysis performed.
 
-    [GitHub/simulation-algorithmics](https://github.com/cadovid/simulation-algorithmics)
+    <div markdown="0"><a href="https://github.com/cadovid/simulation-algorithmics" class="btn">GitHub/simulation-algorithmics</a></div>

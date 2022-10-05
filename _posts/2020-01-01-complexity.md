@@ -20,8 +20,8 @@ This section shows some of the projects I have done as a result of my learning p
 
 <br>
 
-1. Building fast queries for a database
+1. **Building fast queries for a database**
 
     In this project, the implementation of different algorithms that allow queries to be performed on a database is carried out by means of OOP. At the same time, time complexity is analysed and alternative ways of improving these algorithms and making them more time efficient are sought.
 
-    [GitHub/fast-queries](https://github.com/cadovid/fast-queries)
+    <div markdown="0"><a href="https://github.com/cadovid/fast-queries" class="btn">GitHub/fast-queries</a></div>
