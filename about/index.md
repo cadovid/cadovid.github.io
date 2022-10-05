@@ -10,7 +10,7 @@ comments: false
 
 Hello and welcome to my little space!
 
-I am a research-oriented professional in the area of artificial intelligence. With a solid background in the fields of mathematics and engineering, I like to approach this new field with a complete theoretical and practical approach.
+I am a research-oriented professional in the area of artificial intelligence. With a solid background in the fields of mathematics and engineering, I like to address this new field with a complete theoretical and practical approach.
 
 Currently, I work as a machine learning researcher and engineer at The Mindkind S.L, where we explore new ideas that enable the development of autonomous bots with human-like behaviour.
 
