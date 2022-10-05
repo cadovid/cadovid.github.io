@@ -4,7 +4,7 @@ bio:                'AI Researcher & Engineer | M.Sc. in Mathematics | M.Sc. in 
 description:        "AI Researcher & Engineer | M.Sc. in Mathematics | M.Sc. in Computer Science"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/banner-davidcamino.png'
+logo:               'assets/img/davidcamino-img.png'
 background:         'assets/img/keyboard-bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
