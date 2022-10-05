@@ -5,7 +5,7 @@ description:        "AI Researcher & Engineer | M.Sc. in Mathematics | M.Sc. in 
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/davidcamino-img.jpg'
-background:         'assets/img/kb-bg.jpg'
+background:         'assets/img/keyboard-background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://cadovid.github.io
