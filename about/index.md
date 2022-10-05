@@ -31,4 +31,6 @@ You can reach me on my personal sites:
 
 Or at my personal email address:
 
+<p align="center">
 <a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
+</p>
