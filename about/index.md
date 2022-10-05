@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2022-01-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Hi there! I am David.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Hello and welcome to my little space!
 
-## Preview
+I am a research-oriented professional in the area of artificial intelligence. With a solid background in the fields of mathematics and engineering, I like to approach this new field with a complete theoretical and practical approach.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Currently, I work as a machine learning researcher and engineer at The Mindkind S.L, where we explore new ideas that enable the development of autonomous bots with human-like behaviour.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I am an enthusiast of continuous learning, and both discovering and exploring new solutions is part of my daily life.
 
-## Getting Started
+I have experience in teamwork and international environments, so I am always ready to face a new challenge.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+See you around!
+
+## Contact
+
+You can reach me on my personal sites:
+
+[GitHub](https://github.com/cadovid)
+[LinkedIn](https://www.linkedin.com/in/david-caminoperdones/)
+
+Or at my personal email address:
+
+[david.camino.perdones@gmail.com](mailto:david.camino.perdones@gmail.com){: .btn}
