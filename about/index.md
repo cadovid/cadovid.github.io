@@ -24,6 +24,8 @@ See you around!
 
 You can reach me on my personal sites:
 
+<a class="social-btn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
+
 [GitHub](https://github.com/cadovid)
 [LinkedIn](https://www.linkedin.com/in/david-caminoperdones/)
 
