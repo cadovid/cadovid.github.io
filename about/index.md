@@ -14,9 +14,9 @@ I am a research-oriented professional in the area of artificial intelligence. Wi
 
 Currently, I work as a machine learning researcher and engineer at The Mindkind S.L, where we explore new ideas that enable the development of autonomous bots with human-like behaviour.
 
-I am an enthusiast of continuous learning, and both discovering and exploring new solutions is part of my daily life.
+I am an enthusiast of continuous learning, and both discovering and exploring new solutions is part of my daily life. As part of this process, I am always ready to take on a new challenge.
 
-I have experience in teamwork and international environments, so I am always ready to face a new challenge.
+It's a pleasure to welcome you here, and if you have any questions, you know where to find me.
 
 See you around!
 
